@@ -1,0 +1,160 @@
+body {
+  background-color:#FF69B4;
+  
+         
+        
+    
+   
+}
+
+
+h1
+{
+	text-align:center;
+	text-shadow: 3px 2px pink;
+}
+h2 {
+  text-align:center;
+  letter-spacing: 3px;
+  text-shadow: 3px 2px pink;
+}
+h3 {
+  text-align:left;
+  
+  
+}
+
+.black{
+  background-color:white;
+  width: 1300px;
+  height:100px;
+  padding:0px;
+  margin:0px;
+  top: -10px;
+  text-align: right;
+   position: static;
+  
+	
+}
+.text-center {
+  background-color: white;
+  width: 1000px;
+  height:350px;
+  padding: 50px;
+  margin: 90px;
+   top: -20px;
+    position: static;
+}
+  img {
+  border-radius: 50%;
+  position:relative;
+top: -20px;
+}
+
+.card{
+	background-color: white;
+  width: 1000px;
+  height:200px;
+  padding: 50px;
+  margin: 90px;
+   position: static;
+}
+ul.a {
+  list-style-type: circle;
+  list-style-position:left;
+  
+}
+
+ .card1{
+	 background-color: white;
+  width: 1000px;
+  height:200px;
+  padding: 50px;
+  margin: 90px;
+   position: static;
+ }
+.card2{
+	background-color: white;
+  width: 1000px;
+  height:200px;
+  padding: 50px;
+  margin: 90px;
+   position: static;
+	
+	
+}
+.button
+ {
+ background-color: white;
+  width: 1000px;
+  height:200px;
+  padding: 50px;
+  margin: 90px;
+  position: absolute;
+  text-align: center;
+   position: static;
+ }	 
+  
+  .fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.fa-skype {
+  background: #00aff0;
+  color: white;
+}
+
+
+
+
+ 
